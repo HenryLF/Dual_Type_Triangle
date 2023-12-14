@@ -1,0 +1,1254 @@
+Type1	Type2	Type3	Offense(Stab1,Stab2)	Defense(Stab1,Stab2)
+'Normal', 'Fire'	'Normal', 'Water'	'Normal', 'Grass'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Normal', 'Water'	'Grass', 'Poison'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Normal', 'Water'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Normal', 'Water'	'Grass', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Normal', 'Water'	'Grass', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Normal', 'Water'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Normal', 'Grass'	'Water', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Normal', 'Fire'	'Normal', 'Grass'	'Water', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Fire'	'Normal', 'Grass'	'Water', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Electric'	'Fire', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Electric'	'Fire', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Electric'	'Fire', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Electric'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Poison'	'Fire', 'Flying'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Poison'	'Fire', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Poison'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Flying'	'Fire', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Flying'	'Fire', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Flying'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Flying'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Flying'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Psychic'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Psychic'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Psychic'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'Dark'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Fire', 'None_Type'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fire'	'Water', 'Psychic'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'Psychic'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'Dark'	'Grass', 'Poison'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'Dark'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'Dark'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'None_Type'	'Grass', 'Poison'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'None_Type'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'None_Type'	'Grass', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'None_Type'	'Grass', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fire'	'Fighting', 'Steel'	'Ground', 'Steel'	0.5, 2.0	0.5, 2.0
+'Normal', 'Water'	'Normal', 'Grass'	'Fire', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Water'	'Normal', 'Grass'	'Fire', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Water'	'Normal', 'Grass'	'Fire', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Water'	'Normal', 'Grass'	'Fire', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Water'	'Normal', 'Steel'	'Water', 'Flying'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Normal', 'Steel'	'Water', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Normal', 'Steel'	'Water', 'Bug'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Normal', 'Steel'	'Water', 'Rock'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Psychic'	'Grass', 'Flying'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Psychic'	'Grass', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Dark'	'Grass', 'Poison'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Dark'	'Grass', 'Flying'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Dark'	'Grass', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Fairy'	'Grass', 'Flying'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Fairy'	'Grass', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'Fairy'	'Grass', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'None_Type'	'Grass', 'Poison'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'None_Type'	'Grass', 'Flying'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'None_Type'	'Grass', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'None_Type'	'Grass', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Fire', 'None_Type'	'Grass', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Poison'	'Water', 'Flying'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Poison'	'Water', 'Rock'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Poison'	'Water', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Poison'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Poison'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Water', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Water', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Water', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Poison', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Flying', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Psychic', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Dark', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Flying'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Psychic'	'Water', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Psychic'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Psychic'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Psychic'	'Flying', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Psychic'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Psychic'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Bug'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Bug'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Bug'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Bug'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Rock'	'Poison', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Dark'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Dark'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Fairy'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'Fairy'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Water', 'None_Type'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Bug', 'Steel'	'Dark', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Dark', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Water'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Normal', 'Steel'	'Electric', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Normal', 'Steel'	'Electric', 'Bug'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Fire', 'Electric'	'Electric', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Fire', 'Electric'	'Electric', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Fire', 'Electric'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Fire', 'Electric'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Fire', 'Steel'	'Electric', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Ice'	'Electric', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Ice'	'Electric', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Ice'	'Electric', 'Bug'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Ice'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Ice'	'Electric', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Ice'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Poison'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Poison'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Psychic'	'Electric', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Psychic'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Psychic'	'Ice', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Psychic'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Psychic'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Bug'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Bug'	'Ice', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Bug'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Bug'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Dark'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Fairy'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Electric', 'Fairy'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Ice', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Fighting', 'Dragon'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Electric'	'Bug', 'Steel'	'Dark', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Dark', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Electric'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Normal', 'Poison'	'Normal', 'Ground'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Normal', 'Poison'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Normal', 'Poison'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Normal', 'Ground'	'Poison', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Normal', 'Grass'	'Normal', 'Ground'	'Poison', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Grass'	'Normal', 'Ground'	'Poison', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Normal', 'Grass'	'Normal', 'Ground'	'Poison', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Grass'	'Fire', 'Psychic'	'Water', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'Dark'	'Water', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'Dark'	'Ground', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'Fairy'	'Water', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'Fairy'	'Water', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'None_Type'	'Water', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'None_Type'	'Water', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Fire', 'None_Type'	'Water', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Water', 'Steel'	'Grass', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Water', 'Fairy'	'Flying', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Grass'	'Water', 'Fairy'	'Bug', 'Rock'	1.0, 2.0	0.5, 1.0
+'Normal', 'Grass'	'Electric', 'Fighting'	'Psychic', 'Rock'	1.0	0.5, 2.0
+'Normal', 'Grass'	'Electric', 'Fighting'	'Rock', 'Fairy'	1.0	0.5, 2.0
+'Normal', 'Grass'	'Electric', 'Bug'	'Electric', 'Rock'	0.5, 1.0	0.5, 2.0
+'Normal', 'Grass'	'Electric', 'Dragon'	'Grass', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Electric', 'Dragon'	'Grass', 'Rock'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Electric', 'Dragon'	'Grass', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Electric', 'Dragon'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Grass', 'Psychic'	'Grass', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Grass', 'Psychic'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Grass', 'Psychic'	'Ground', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Grass', 'Dark'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Grass', 'Fairy'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Grass'	'Fighting', 'Dragon'	'Ground', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Poison', 'Psychic'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Poison', 'Dark'	'Ground', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Poison', 'Dark'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Poison', 'Fairy'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Poison', 'None_Type'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Grass'	'Poison', 'None_Type'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ice'	'Normal', 'Ground'	'Fire', 'Ground'	1.0, 2.0	1.0
+'Normal', 'Ice'	'Normal', 'Ground'	'Fire', 'Dragon'	1.0, 2.0	1.0
+'Normal', 'Ice'	'Fire', 'Grass'	'Poison', 'Ground'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Ground'	'Ground', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Ground'	'Ground', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Ground'	'Ground', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Dragon'	'Poison', 'Ground'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Dragon'	'Ground', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Dragon'	'Ground', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Fire', 'Dragon'	'Ground', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Ice'	'Electric', 'Ice'	'Ice', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Electric', 'Ice'	'Ice', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Electric', 'Ice'	'Ice', 'Bug'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Electric', 'Ice'	'Ice', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Electric', 'Ice'	'Ice', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Electric', 'Ice'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Poison'	'Ice', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Poison'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Psychic'	'Ice', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Psychic'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Bug'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Dark'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Ice'	'Ice', 'Fairy'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fighting'	'Normal', 'Flying'	'Fire', 'Ice'	1.0	1.0, 2.0
+'Normal', 'Fighting'	'Normal', 'Flying'	'Water', 'Ice'	1.0	1.0, 2.0
+'Normal', 'Fighting'	'Normal', 'Flying'	'Ice', 'Dragon'	1.0	1.0, 2.0
+'Normal', 'Fighting'	'Normal', 'Flying'	'Ice', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Fighting'	'Normal', 'Bug'	'Grass', 'Poison'	1.0	0.5, 1.0
+'Normal', 'Fighting'	'Fire', 'Flying'	'Water', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fighting'	'Fire', 'Flying'	'Electric', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fighting'	'Fire', 'Dark'	'Grass', 'Flying'	1.0, 2.0	0.5, 1.0
+'Normal', 'Fighting'	'Fire', 'Dark'	'Flying', 'Steel'	1.0, 2.0	0.5, 1.0
+'Normal', 'Fighting'	'Water', 'Bug'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fighting'	'Electric', 'Bug'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Normal', 'Fighting'	'Electric', 'Dark'	'Flying', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Normal', 'Ground'	'Grass', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Normal', 'Ground'	'Grass', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Normal', 'Ground'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Normal', 'Fairy'	'Ground', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Fire', 'Grass'	'Electric', 'Ground'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Fire', 'Poison'	'Electric', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Fire', 'Poison'	'Poison', 'Flying'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Fire', 'Poison'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Fire', 'Poison'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Water', 'Poison'	'Poison', 'Flying'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Water', 'Poison'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Water', 'Poison'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Water', 'Fairy'	'Ice', 'Ground'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Electric', 'Poison'	'Grass', 'Rock'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Electric', 'Poison'	'Ice', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Electric', 'Poison'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Electric', 'Poison'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Ice'	'Ice', 'Ground'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Fighting'	'Fighting', 'Ground'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Fighting'	'Ground', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Dragon'	'Fighting', 'Ground'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Dragon'	'Ground', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Dragon'	'Ground', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'Dark'	'Ground', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'None_Type'	'Fighting', 'Ground'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'None_Type'	'Ground', 'Dark'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Grass', 'None_Type'	'Ground', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Poison'	'Ice', 'Poison'	'Fighting', 'Poison'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Ice', 'Poison'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Ice', 'Poison'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Fighting', 'Ground'	'Fighting', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Fighting', 'Ground'	'Dragon', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Fighting', 'Ground'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Poison', 'Flying'	'Poison', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Poison', 'Flying'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Poison', 'Flying'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Poison', 'Dragon'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Poison', 'Dragon'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Poison'	'Ground', 'Dark'	'Dragon', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Poison'	'Ground', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Normal', 'Bug'	'Poison', 'Bug'	0.5, 1.0	1.0
+'Normal', 'Ground'	'Fire', 'Ground'	'Ice', 'Psychic'	1.0, 2.0	1.0
+'Normal', 'Ground'	'Fire', 'Ground'	'Ice', 'Dark'	1.0, 2.0	1.0
+'Normal', 'Ground'	'Fire', 'Ground'	'Ice', 'None_Type'	1.0, 2.0	1.0
+'Normal', 'Ground'	'Fire', 'Dragon'	'Ice', 'Psychic'	1.0, 2.0	1.0
+'Normal', 'Ground'	'Fire', 'Dragon'	'Ice', 'Dark'	1.0, 2.0	1.0
+'Normal', 'Ground'	'Fire', 'Dragon'	'Ice', 'None_Type'	1.0, 2.0	1.0
+'Normal', 'Ground'	'Electric', 'Flying'	'Ground', 'Ghost'	0.0, 1.0	0.0, 1.0
+'Normal', 'Ground'	'Grass', 'Dragon'	'Poison', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'Dragon'	'Poison', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'Dragon'	'Poison', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'None_Type'	'Poison', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'None_Type'	'Poison', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'None_Type'	'Poison', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Grass', 'None_Type'	'Poison', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Ground'	'Poison', 'Bug'	'Bug', 'Dragon'	1.0	0.5, 1.0
+'Normal', 'Ground'	'Poison', 'Bug'	'Bug', 'None_Type'	1.0	0.5, 1.0
+'Normal', 'Flying'	'Fire', 'Ice'	'Fighting', 'Poison'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Fire', 'Ice'	'Fighting', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Fire', 'Ice'	'Fighting', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Fire', 'Ice'	'Fighting', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Water', 'Ice'	'Fighting', 'Poison'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Water', 'Ice'	'Fighting', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Water', 'Ice'	'Fighting', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Water', 'Ice'	'Fighting', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Water', 'Ice'	'Fighting', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Electric', 'Psychic'	'Bug', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Normal', 'Flying'	'Electric', 'Dark'	'Bug', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'Poison'	'Fighting', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'Dragon'	'Fighting', 'Poison'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'Dragon'	'Fighting', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'Dragon'	'Fighting', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'Dragon'	'Fighting', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'Fairy'	'Fighting', 'Poison'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'None_Type'	'Fighting', 'Poison'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'None_Type'	'Fighting', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'None_Type'	'Fighting', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'None_Type'	'Fighting', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Flying'	'Ice', 'None_Type'	'Fighting', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Psychic'	'Fire', 'Psychic'	'Electric', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Fire', 'Psychic'	'Flying', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Fire', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Water', 'Psychic'	'Flying', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Water', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Water', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Electric', 'Psychic'	'Ice', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Electric', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Electric', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Grass', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Grass', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Grass', 'Rock'	'Poison', 'Psychic'	0.5, 1.0	1.0
+'Normal', 'Psychic'	'Ice', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Ice', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Poison', 'Psychic'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Psychic'	'Ground', 'Psychic'	'Psychic', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Ground', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Ground', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Psychic', 'Dragon'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Bug'	'Normal', 'Rock'	'Ground', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Normal', 'Bug'	'Normal', 'Rock'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Bug'	'Water', 'Ground'	'Poison', 'Bug'	1.0	0.5, 1.0
+'Normal', 'Bug'	'Electric', 'Fighting'	'Grass', 'Fighting'	0.5, 1.0	1.0
+'Normal', 'Bug'	'Electric', 'Ground'	'Poison', 'Bug'	1.0	0.5, 1.0
+'Normal', 'Bug'	'Electric', 'Rock'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Normal', 'Bug'	'Electric', 'Fairy'	'Grass', 'Fairy'	0.5, 1.0	1.0
+'Normal', 'Bug'	'Grass', 'Poison'	'Fighting', 'None_Type'	1.0	0.5, 1.0
+'Normal', 'Bug'	'Ice', 'Ground'	'Poison', 'Bug'	1.0	0.5, 1.0
+'Normal', 'Bug'	'Poison', 'Bug'	'Ground', 'Dragon'	0.5, 1.0	1.0
+'Normal', 'Bug'	'Poison', 'Bug'	'Ground', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Bug'	'Ground', 'Psychic'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Normal', 'Bug'	'Ground', 'Psychic'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Bug'	'Ground', 'Dark'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Normal', 'Bug'	'Ground', 'Dark'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Normal', 'Rock'	'Water', 'Psychic'	'Bug', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Water', 'Psychic'	'Bug', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Water', 'Dark'	'Bug', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Water', 'None_Type'	'Electric', 'Bug'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Electric', 'Grass'	'Ice', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Electric', 'Grass'	'Ice', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Electric', 'Grass'	'Ice', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Electric', 'Grass'	'Ice', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Electric', 'Poison'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Rock'	'Grass', 'Psychic'	'Ice', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'Psychic'	'Ice', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'Dark'	'Ice', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'Fairy'	'Ice', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'Fairy'	'Ice', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'Fairy'	'Ice', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'None_Type'	'Ice', 'Psychic'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'None_Type'	'Ice', 'Dark'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'None_Type'	'Ice', 'Fairy'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Grass', 'None_Type'	'Ice', 'None_Type'	1.0	1.0, 2.0
+'Normal', 'Rock'	'Ice', 'Dragon'	'Ground', 'Bug'	1.0, 2.0	1.0
+'Normal', 'Rock'	'Ice', 'None_Type'	'Ground', 'Bug'	1.0, 2.0	1.0
+'Normal', 'Rock'	'Poison', 'Psychic'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Rock'	'Poison', 'Fairy'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Rock'	'Poison', 'None_Type'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Ghost'	'Normal', 'Dark'	'Ghost', 'Fairy'	0.0, 1.0	0.0, 2.0
+'Normal', 'Ghost'	'Electric', 'Poison'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Ghost'	'Grass', 'Rock'	'Poison', 'Ground'	0.5, 1.0	1.0
+'Normal', 'Ghost'	'Grass', 'Rock'	'Poison', 'Fairy'	0.5, 1.0	1.0
+'Normal', 'Ghost'	'Grass', 'Rock'	'Poison', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Ghost'	'Grass', 'Steel'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Ghost'	'Poison', 'Fairy'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Ghost'	'Poison', 'None_Type'	'Rock', 'Fairy'	1.0	0.5, 1.0
+'Normal', 'Dragon'	'Fire', 'Ground'	'Bug', 'Rock'	1.0	0.5, 1.0
+'Normal', 'Dragon'	'Electric', 'Ground'	'Bug', 'Rock'	1.0	0.5, 1.0
+'Normal', 'Dragon'	'Poison', 'Dragon'	'Flying', 'Dragon'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Poison', 'Dragon'	'Dragon', 'Dark'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Poison', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Ground', 'Dragon'	'Psychic', 'Dragon'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Ground', 'Dragon'	'Dragon', 'Dark'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Ground', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Flying', 'Dragon'	'Psychic', 'Dragon'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Flying', 'Dragon'	'Dragon', 'Dark'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Flying', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Psychic', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Bug', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dragon'	'Dragon', 'Dark'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Normal', 'Dark'	'Fire', 'Dark'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Fire', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Fire', 'Dark'	'Flying', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Fire', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Water', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Water', 'Dark'	'Flying', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Water', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Electric', 'Dark'	'Ice', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Electric', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Electric', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Grass', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Ice', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Ice', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Poison', 'Dark'	'Flying', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Poison', 'Dark'	'Dragon', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Poison', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Ground', 'Dark'	'Dragon', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Ground', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Flying', 'Dark'	'Dragon', 'Dark'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Flying', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Dark'	'Dragon', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Normal', 'Steel'	'Water', 'Flying'	'Water', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Normal', 'Steel'	'Water', 'Dark'	'Dragon', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Water', 'None_Type'	'Dragon', 'Dark'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Water', 'None_Type'	'Dragon', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Electric', 'Flying'	'Electric', 'Bug'	0.5, 1.0	0.5, 1.0
+'Normal', 'Steel'	'Electric', 'Psychic'	'Electric', 'Rock'	0.5, 1.0	0.5, 1.0
+'Normal', 'Steel'	'Electric', 'Dark'	'Grass', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Electric', 'Dark'	'Dragon', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Electric', 'None_Type'	'Grass', 'Dark'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Electric', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Electric', 'None_Type'	'Dragon', 'Dark'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Electric', 'None_Type'	'Dragon', 'None_Type'	0.5, 1.0	1.0
+'Normal', 'Steel'	'Grass', 'Steel'	'Psychic', 'Steel'	0.5	0.5
+'Normal', 'Steel'	'Flying', 'Steel'	'Psychic', 'Steel'	0.5	0.5
+'Normal', 'Steel'	'Flying', 'Steel'	'Dragon', 'Steel'	0.5	0.5
+'Normal', 'Steel'	'Psychic', 'Steel'	'Dragon', 'Steel'	0.5	0.5
+'Normal', 'Steel'	'Bug', 'Steel'	'Dragon', 'Steel'	0.5	0.5
+'Normal', 'Fairy'	'Electric', 'Dark'	'Poison', 'Flying'	1.0, 2.0	0.5, 1.0
+'Normal', 'Fairy'	'Grass', 'Poison'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fairy'	'Poison', 'Ground'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Normal', 'Fairy'	'Poison', 'None_Type'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'Water'	'Fire', 'Grass'	'Water', 'Grass'	1.0	0.25, 1.0
+'Fire', 'Water'	'Water', 'Rock'	'Fighting', 'Steel'	0.25, 1.0	1.0, 2.0
+'Fire', 'Electric'	'Fire', 'Fighting'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Poison'	'Fire', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Poison'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Poison'	'Electric', 'Poison'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Psychic'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Psychic'	'Electric', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Ghost'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Dark'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fire', 'Dark'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Fighting'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Poison'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Poison'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Poison'	'Bug', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Psychic'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Ghost'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Ghost'	'Bug', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Electric', 'Dark'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Electric'	'Fighting', 'Flying'	'Fighting', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fire', 'Grass'	'Electric', 'Ground'	'Fighting', 'Poison'	1.0, 2.0	0.5, 1.0
+'Fire', 'Grass'	'Electric', 'Ground'	'Poison', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Fire', 'Grass'	'Electric', 'Ground'	'Poison', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Fire', 'Grass'	'Electric', 'Ground'	'Poison', 'Dark'	1.0, 2.0	0.5, 1.0
+'Fire', 'Grass'	'Electric', 'Ground'	'Poison', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Grass'	'Grass', 'Poison'	'Grass', 'Flying'	0.25, 2.0	0.25, 2.0
+'Fire', 'Grass'	'Ice', 'Dark'	'Poison', 'Ground'	1.0, 2.0	1.0
+'Fire', 'Grass'	'Ice', 'None_Type'	'Poison', 'Ground'	1.0, 2.0	1.0
+'Fire', 'Grass'	'Fighting', 'Poison'	'Ground', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Fire', 'Grass'	'Poison', 'Dark'	'Ground', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Fire', 'Grass'	'Flying', 'Fairy'	'Dark', 'Steel'	0.5, 1.0	0.5, 2.0
+'Fire', 'Ice'	'Water', 'Fighting'	'Grass', 'Fairy'	0.5	2.0
+'Fire', 'Ice'	'Fighting', 'Ghost'	'Flying', 'Steel'	1.0	1.0, 2.0
+'Fire', 'Ice'	'Fighting', 'Dark'	'Flying', 'Steel'	1.0	1.0, 2.0
+'Fire', 'Ice'	'Fighting', 'Steel'	'Ground', 'Fairy'	0.5, 2.0	1.0, 2.0
+'Fire', 'Ice'	'Fighting', 'None_Type'	'Flying', 'Steel'	1.0	1.0, 2.0
+'Fire', 'Ice'	'Bug', 'Steel'	'Rock', 'Fairy'	0.5, 4.0	0.5, 1.0
+'Fire', 'Fighting'	'Water', 'Electric'	'Grass', 'Rock'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Water', 'Fighting'	'Grass', 'Fighting'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Water', 'Fighting'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Water', 'None_Type'	'Grass', 'Fighting'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Electric', 'Flying'	'Ice', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Electric', 'Dark'	'Flying', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fighting'	'Electric', 'Dark'	'Flying', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fighting'	'Grass', 'None_Type'	'Ground', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fighting'	'Fighting', 'Flying'	'Steel', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Fighting', 'Psychic'	'Steel', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fighting'	'Ground', 'Rock'	'Psychic', 'Steel'	0.5, 2.0	1.0, 2.0
+'Fire', 'Poison'	'Fire', 'Flying'	'Fire', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Fire', 'Flying'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Fire', 'Dark'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Fire', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Electric', 'Poison'	'Fighting', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Electric', 'Poison'	'Fighting', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Electric', 'Poison'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Electric', 'Poison'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Electric', 'Ghost'	'Ice', 'Dragon'	0.5, 1.0	1.0
+'Fire', 'Poison'	'Fighting', 'Ghost'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Fighting', 'Ghost'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Poison', 'Flying'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Poison', 'Flying'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Poison'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Ground'	'Ice', 'Fighting'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'Psychic'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'Ghost'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'Dark'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'None_Type'	'Ground', 'Psychic'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'None_Type'	'Ground', 'Ghost'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'None_Type'	'Ground', 'Dark'	1.0, 2.0	1.0
+'Fire', 'Ground'	'Ice', 'None_Type'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Flying'	'Fire', 'Psychic'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Fire', 'Psychic'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Fire', 'Psychic'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Fire', 'Ghost'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Fire', 'Ghost'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Fire', 'Dark'	'Fire', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Fire', 'None_Type'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Fire', 'Flying'	'Water', 'Dark'	'Fighting', 'Poison'	0.5, 1.0	1.0, 2.0
+'Fire', 'Flying'	'Water', 'Dark'	'Fighting', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Flying'	'Water', 'Dark'	'Fighting', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Flying'	'Water', 'Steel'	'Fighting', 'Dragon'	0.5, 1.0	0.5, 2.0
+'Fire', 'Flying'	'Electric', 'Dark'	'Ice', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Fire', 'Flying'	'Electric', 'Dark'	'Fighting', 'Poison'	0.5, 1.0	1.0, 2.0
+'Fire', 'Flying'	'Electric', 'Dark'	'Fighting', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Psychic'	'Fire', 'Steel'	'Psychic', 'Dragon'	0.5, 1.0	0.5
+'Fire', 'Psychic'	'Fire', 'None_Type'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Fire', 'Psychic'	'Water', 'Psychic'	'Grass', 'Psychic'	0.5	0.5, 2.0
+'Fire', 'Psychic'	'Water', 'Bug'	'Electric', 'Bug'	1.0	1.0, 2.0
+'Fire', 'Psychic'	'Water', 'Steel'	'Fighting', 'Dragon'	0.5, 1.0	0.5, 2.0
+'Fire', 'Psychic'	'Water', 'None_Type'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Psychic'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Psychic'	'Electric', 'Fighting'	'Flying', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fire', 'Psychic'	'Electric', 'Fighting'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Psychic'	'Electric', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Psychic'	'Electric', 'Rock'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Psychic'	'Electric', 'Rock'	'Fighting', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Psychic'	'Fighting', 'None_Type'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Bug'	'Electric', 'Poison'	'Ice', 'Dragon'	0.5, 1.0	1.0
+'Fire', 'Bug'	'Electric', 'Ghost'	'Ice', 'Dragon'	0.5, 1.0	1.0
+'Fire', 'Rock'	'Electric', 'Flying'	'Fighting', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Electric', 'Flying'	'Fighting', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Electric', 'Flying'	'Fighting', 'Dark'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Electric', 'Flying'	'Fighting', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Electric', 'Rock'	'Grass', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Fire', 'Rock'	'Grass', 'Fairy'	'Fighting', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Grass', 'Fairy'	'Fighting', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Grass', 'Fairy'	'Fighting', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Rock'	'Fighting', 'Psychic'	'Flying', 'Steel'	0.5, 1.0	1.0, 2.0
+'Fire', 'Rock'	'Fighting', 'Psychic'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Rock'	'Fighting', 'Ghost'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'Rock'	'Fighting', 'Ghost'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Rock'	'Fighting', 'Dark'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Rock'	'Fighting', 'None_Type'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Ghost'	'Fire', 'None_Type'	'Dragon', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Fire', 'Ghost'	'Water', 'Ghost'	'Grass', 'Ghost'	0.5, 2.0	2.0
+'Fire', 'Ghost'	'Water', 'None_Type'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Ghost'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Ghost'	'Electric', 'Poison'	'Flying', 'Dragon'	1.0	0.5, 1.0
+'Fire', 'Ghost'	'Electric', 'Rock'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Ghost'	'Electric', 'Ghost'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Fire', 'Ghost'	'Electric', 'Steel'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Ghost'	'Flying', 'Ghost'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Fire', 'Ghost'	'Rock', 'Ghost'	'Ghost', 'Steel'	0.5, 2.0	2.0
+'Fire', 'Ghost'	'Rock', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dragon'	'Water', 'Dragon'	'Grass', 'Dragon'	0.25, 2.0	1.0, 2.0
+'Fire', 'Dragon'	'Ice', 'Fighting'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'Psychic'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'Ghost'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'Dark'	'Poison', 'Ground'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'Dark'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'None_Type'	'Poison', 'Ground'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'None_Type'	'Ground', 'Psychic'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'None_Type'	'Ground', 'Ghost'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'None_Type'	'Ground', 'Dark'	1.0, 2.0	1.0
+'Fire', 'Dragon'	'Ice', 'None_Type'	'Ground', 'None_Type'	1.0, 2.0	1.0
+'Fire', 'Dark'	'Water', 'Poison'	'Electric', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dark'	'Water', 'Bug'	'Electric', 'Bug'	1.0	1.0, 2.0
+'Fire', 'Dark'	'Water', 'Dark'	'Grass', 'Dark'	0.5	0.5, 2.0
+'Fire', 'Dark'	'Water', 'None_Type'	'Grass', 'Poison'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dark'	'Water', 'None_Type'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dark'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dark'	'Electric', 'Rock'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dark'	'Electric', 'Ghost'	'Flying', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fire', 'Dark'	'Electric', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Dark'	'Electric', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Dark'	'Electric', 'Steel'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Dark'	'Grass', 'Poison'	'Ground', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Fire', 'Dark'	'Grass', 'Flying'	'Fighting', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Dark'	'Grass', 'None_Type'	'Ground', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Fire', 'Dark'	'Fighting', 'Flying'	'Flying', 'Steel'	0.5, 1.0	1.0, 2.0
+'Fire', 'Dark'	'Poison', 'Dark'	'Flying', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fire', 'Dark'	'Poison', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Dark'	'Flying', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fire', 'Dark'	'Rock', 'Dark'	'Dark', 'Steel'	0.5	0.5, 2.0
+'Fire', 'Dark'	'Rock', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Steel'	'Water', 'Steel'	'Electric', 'Steel'	0.25, 1.0	0.25, 2.0
+'Fire', 'Fairy'	'Water', 'Psychic'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'Psychic'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'Ghost'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'Ghost'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'Ghost'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'Steel'	'Electric', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'None_Type'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'None_Type'	'Grass', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'None_Type'	'Grass', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Fighting'	'Flying', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Electric', 'Fighting'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Electric', 'Rock'	'Grass', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Rock'	'Grass', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Rock'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Rock'	'Fighting', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Rock'	'Fighting', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Rock'	'Fighting', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Electric', 'Dark'	'Poison', 'Flying'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Electric', 'Dark'	'Poison', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Electric', 'Dark'	'Flying', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Electric', 'Dark'	'Rock', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Ice', 'Ghost'	'Poison', 'Flying'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Ice', 'Ghost'	'Poison', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Fighting', 'Psychic'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Fighting', 'Ghost'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Fighting', 'None_Type'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'Fairy'	'Poison', 'Ghost'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Poison', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Rock', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'Fairy'	'Rock', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Fighting'	'Grass', 'Fighting'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Fighting'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Psychic'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Psychic'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Ghost'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Ghost'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Dark'	'Grass', 'Poison'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Dark'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'Dark'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'Fighting'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'Poison'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'Flying'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Water', 'None_Type'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Electric', 'Rock'	'Grass', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Electric', 'Rock'	'Grass', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Electric', 'Rock'	'Grass', 'Dark'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Electric', 'Rock'	'Grass', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Electric', 'Steel'	'Rock', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Fire', 'None_Type'	'Electric', 'Steel'	'Rock', 'Dark'	1.0, 2.0	0.5, 1.0
+'Fire', 'None_Type'	'Electric', 'Steel'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'None_Type'	'Psychic', 'Steel'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fire', 'None_Type'	'Rock', 'Ghost'	'Steel', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Rock', 'Dark'	'Steel', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Rock', 'None_Type'	'Ghost', 'Steel'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Rock', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0, 2.0
+'Fire', 'None_Type'	'Rock', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Electric'	'Electric', 'Poison'	'Ice', 'Ghost'	0.5, 1.0	1.0
+'Water', 'Electric'	'Electric', 'Bug'	'Ice', 'Poison'	0.5, 1.0	1.0
+'Water', 'Electric'	'Electric', 'Bug'	'Ice', 'Ghost'	0.5, 1.0	1.0
+'Water', 'Electric'	'Electric', 'Bug'	'Ice', 'Fairy'	0.5, 1.0	1.0
+'Water', 'Electric'	'Grass', 'Rock'	'Fighting', 'Flying'	0.5, 1.0	1.0, 2.0
+'Water', 'Grass'	'Ice', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Grass'	'Fighting', 'Steel'	'Psychic', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Grass'	'Bug', 'Ghost'	'Rock', 'Steel'	0.5, 1.0	1.0, 2.0
+'Water', 'Grass'	'Bug', 'Dark'	'Rock', 'Steel'	0.5, 1.0	1.0, 2.0
+'Water', 'Grass'	'Bug', 'None_Type'	'Rock', 'Steel'	0.5, 1.0	1.0, 2.0
+'Water', 'Grass'	'Ghost', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Grass'	'Dark', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Grass'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Ice'	'Water', 'Ground'	'Bug', 'Steel'	1.0	0.5, 1.0
+'Water', 'Ice'	'Psychic', 'Rock'	'Bug', 'Rock'	1.0, 2.0	1.0, 2.0
+'Water', 'Ice'	'Bug', 'Rock'	'Rock', 'Dark'	1.0, 2.0	1.0, 2.0
+'Water', 'Fighting'	'Fighting', 'Bug'	'Bug', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Fighting'	'Fighting', 'Dragon'	'Poison', 'Steel'	0.5, 1.0	1.0
+'Water', 'Fighting'	'Poison', 'Rock'	'Flying', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Fighting'	'Poison', 'Rock'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Fighting'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Fighting'	'Flying', 'None_Type'	'Rock', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Water', 'Fighting'	'Steel', 'None_Type'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Poison'	'Water', 'Flying'	'Water', 'Dark'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Water', 'Flying'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Water', 'Psychic'	'Grass', 'Ice'	0.5, 1.0	0.5, 2.0
+'Water', 'Poison'	'Water', 'Dark'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Water', 'Dark'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Water', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Water', 'None_Type'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Electric', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Water', 'Poison'	'Grass', 'Poison'	'Fighting', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Grass', 'Poison'	'Fighting', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Grass', 'Flying'	'Psychic', 'Bug'	0.5, 2.0	1.0
+'Water', 'Poison'	'Grass', 'Ghost'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Water', 'Poison'	'Fighting', 'Psychic'	'Flying', 'Rock'	1.0	0.5, 2.0
+'Water', 'Poison'	'Fighting', 'Ghost'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Fighting', 'Ghost'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Poison', 'Flying'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Poison', 'Flying'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Poison'	'Poison', 'None_Type'	'Bug', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Water', 'Ground'	'Ice', 'Bug'	'Poison', 'Bug'	0.5, 1.0	1.0
+'Water', 'Ground'	'Poison', 'Bug'	'Bug', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Ground'	'Bug', 'Steel'	'Bug', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Ground'	'Bug', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Psychic'	'Water', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Psychic'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Psychic'	'Flying', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Psychic'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Psychic'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Ghost'	'Water', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Ghost'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Dark'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Fairy'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Water', 'Fairy'	'Ice', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Grass', 'Steel'	'Ice', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Ice', 'Steel'	'Flying', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Ice', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Fighting', 'Psychic'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Water', 'Flying'	'Fighting', 'Ghost'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Water', 'Flying'	'Fighting', 'Dark'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Water', 'Flying'	'Fighting', 'None_Type'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Water', 'Flying'	'Ghost', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Dark', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Flying'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Psychic'	'Water', 'Fairy'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Psychic'	'Water', 'None_Type'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Psychic'	'Electric', 'Steel'	'Fighting', 'Dragon'	0.5, 1.0	0.5, 2.0
+'Water', 'Psychic'	'Grass', 'None_Type'	'Fighting', 'Flying'	0.5, 1.0	1.0, 2.0
+'Water', 'Psychic'	'Ice', 'Poison'	'Bug', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Water', 'Psychic'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Psychic'	'Ground', 'Steel'	'Ghost', 'Steel'	0.5, 2.0	0.5, 1.0
+'Water', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Psychic'	'Bug', 'Fairy'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Water', 'Psychic'	'Bug', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Water', 'Bug'	'Water', 'None_Type'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Bug'	'Electric', 'Ghost'	'Ice', 'Dark'	0.5, 1.0	1.0, 2.0
+'Water', 'Bug'	'Grass', 'Poison'	'Ground', 'Dragon'	0.5, 1.0	1.0
+'Water', 'Bug'	'Grass', 'Rock'	'Bug', 'Rock'	1.0, 2.0	1.0, 2.0
+'Water', 'Bug'	'Ice', 'Ghost'	'Ice', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Water', 'Bug'	'Fighting', 'Bug'	'Fighting', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Bug'	'Fighting', 'Bug'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Bug'	'Poison', 'Bug'	'Ground', 'Dragon'	0.5, 1.0	1.0
+'Water', 'Bug'	'Psychic', 'Steel'	'Bug', 'Dragon'	1.0	0.5, 1.0
+'Water', 'Bug'	'Psychic', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Bug'	'Bug', 'Dragon'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Water', 'Bug'	'Dragon', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Water', 'Rock'	'Water', 'Fairy'	'Flying', 'Steel'	0.5, 1.0	1.0
+'Water', 'Rock'	'Electric', 'Psychic'	'Bug', 'Fairy'	1.0	1.0, 2.0
+'Water', 'Rock'	'Electric', 'Psychic'	'Bug', 'None_Type'	1.0	1.0, 2.0
+'Water', 'Rock'	'Electric', 'Psychic'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Water', 'Rock'	'Electric', 'Dark'	'Bug', 'None_Type'	1.0	1.0, 2.0
+'Water', 'Rock'	'Fighting', 'Psychic'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Rock'	'Fighting', 'Ghost'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Water', 'Rock'	'Fighting', 'Ghost'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Rock'	'Fighting', 'Dark'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Rock'	'Fighting', 'Fairy'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Rock'	'Fighting', 'None_Type'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Rock'	'Flying', 'Steel'	'Ghost', 'Dragon'	1.0	0.5, 1.0
+'Water', 'Rock'	'Flying', 'Steel'	'Dragon', 'Dark'	1.0	0.5, 1.0
+'Water', 'Rock'	'Flying', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Ghost'	'Water', 'Fairy'	'Water', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Ghost'	'Water', 'None_Type'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Ghost'	'Water', 'None_Type'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Ghost'	'Grass', 'Flying'	'Poison', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Water', 'Ghost'	'Grass', 'Fairy'	'Rock', 'Steel'	0.5, 1.0	1.0, 2.0
+'Water', 'Ghost'	'Grass', 'None_Type'	'Poison', 'Psychic'	0.5, 1.0	1.0, 2.0
+'Water', 'Ghost'	'Grass', 'None_Type'	'Psychic', 'Bug'	0.5, 1.0	1.0, 2.0
+'Water', 'Ghost'	'Poison', 'Ground'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Ghost'	'Poison', 'Rock'	'Flying', 'Dark'	1.0, 2.0	0.5, 1.0
+'Water', 'Ghost'	'Poison', 'Rock'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Ghost'	'Ground', 'Steel'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Ghost'	'Flying', 'Ghost'	'Ghost', 'Fairy'	1.0, 2.0	1.0, 2.0
+'Water', 'Ghost'	'Flying', 'Ghost'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Water', 'Ghost'	'Flying', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Ghost'	'Rock', 'Steel'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Ghost'	'Ghost', 'Dragon'	'Ghost', 'Steel'	0.5, 2.0	1.0, 2.0
+'Water', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Water', 'Ghost'	'Dragon', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Water', 'Dragon'	'Ice', 'Steel'	'Flying', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Dragon'	'Fighting', 'Steel'	'Flying', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Dragon'	'Fighting', 'Steel'	'Psychic', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Dragon'	'Bug', 'Steel'	'Dark', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Dragon'	'Ghost', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Dragon'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Dark'	'Water', 'None_Type'	'Ice', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Water', 'Dark'	'Water', 'None_Type'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Water', 'Dark'	'Grass', 'Flying'	'Poison', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Water', 'Dark'	'Grass', 'Flying'	'Flying', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Water', 'Dark'	'Grass', 'None_Type'	'Poison', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Water', 'Dark'	'Grass', 'None_Type'	'Flying', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Water', 'Dark'	'Ice', 'Ground'	'Poison', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Dark'	'Poison', 'Ghost'	'Flying', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Dark'	'Poison', 'Ghost'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Dark'	'Poison', 'Dark'	'Flying', 'Dark'	0.5, 1.0	0.5, 1.0
+'Water', 'Dark'	'Poison', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Dark'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Dark'	'Ground', 'Steel'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Dark'	'Flying', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Water', 'Dark'	'Flying', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'Dark'	'Bug', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Water', 'Dark'	'Rock', 'Steel'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Dark'	'Ghost', 'Steel'	'Dragon', 'Fairy'	1.0, 2.0	0.5
+'Water', 'Dark'	'Dragon', 'Dark'	'Dark', 'Steel'	0.5	0.5, 1.0
+'Water', 'Dark'	'Dragon', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Water', 'Steel'	'Electric', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Water', 'Steel'	'Electric', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Steel'	'Grass', 'Fighting'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Steel'	'Grass', 'Ghost'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Water', 'Fairy'	'Electric', 'Psychic'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Water', 'Fairy'	'Grass', 'Flying'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Grass', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Grass', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Grass', 'None_Type'	'Fighting', 'Flying'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Grass', 'None_Type'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Ice', 'Ground'	'Poison', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Water', 'Fairy'	'Ice', 'Ground'	'Poison', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Water', 'Fairy'	'Ice', 'Ground'	'Poison', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Water', 'Fairy'	'Ice', 'Ground'	'Poison', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Water', 'Fairy'	'Fighting', 'Steel'	'Steel', 'Fairy'	1.0	0.5, 1.0
+'Water', 'Fairy'	'Poison', 'Psychic'	'Ground', 'Bug'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Poison', 'Ghost'	'Flying', 'Dark'	0.5, 1.0	1.0, 2.0
+'Water', 'Fairy'	'Poison', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Water', 'None_Type'	'Electric', 'Psychic'	'Bug', 'Rock'	1.0	1.0, 2.0
+'Water', 'None_Type'	'Electric', 'Psychic'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Water', 'None_Type'	'Electric', 'Bug'	'Bug', 'Rock'	1.0	1.0, 2.0
+'Water', 'None_Type'	'Electric', 'Bug'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Water', 'None_Type'	'Electric', 'Dark'	'Bug', 'Rock'	1.0	1.0, 2.0
+'Water', 'None_Type'	'Grass', 'Bug'	'Rock', 'Steel'	0.5, 1.0	1.0, 2.0
+'Water', 'None_Type'	'Grass', 'Rock'	'Ground', 'Bug'	1.0	1.0, 2.0
+'Water', 'None_Type'	'Grass', 'Fairy'	'Rock', 'Steel'	0.5, 1.0	1.0, 2.0
+'Water', 'None_Type'	'Fighting', 'Dragon'	'Poison', 'Steel'	0.5, 1.0	1.0
+'Water', 'None_Type'	'Fighting', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Poison', 'Steel'	'Psychic', 'Dragon'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Poison', 'Steel'	'Dragon', 'Dark'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Flying', 'Steel'	'Ghost', 'Dragon'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Flying', 'Steel'	'Dragon', 'Dark'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Flying', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Psychic', 'Steel'	'Bug', 'Dragon'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Psychic', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Bug', 'Dragon'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Water', 'None_Type'	'Bug', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Ghost', 'Dragon'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Water', 'None_Type'	'Ghost', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Water', 'None_Type'	'Dragon', 'Dark'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Water', 'None_Type'	'Dragon', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Water', 'None_Type'	'Dragon', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Grass'	'Electric', 'Steel'	'Grass', 'Steel'	0.5	0.5, 0.25
+'Electric', 'Grass'	'Ice', 'Fighting'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Fighting'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Psychic'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Psychic'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Ghost'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Ghost'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Dark'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Fairy'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Fairy'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Fairy'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'Fairy'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'None_Type'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'None_Type'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'None_Type'	'Rock', 'Dark'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'None_Type'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ice', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Fighting', 'Steel'	'Psychic', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Grass'	'Bug', 'Rock'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Electric', 'Grass'	'Ghost', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Grass'	'Dark', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Grass'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Poison'	'Electric', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Poison'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Poison'	'Ice', 'Poison'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Psychic'	'Electric', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Psychic'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Psychic'	'Ice', 'Psychic'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Bug'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Ghost'	'Electric', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Ghost'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Dark'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Dark'	'Ice', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Electric', 'Fairy'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Poison'	'Ice', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Poison'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Psychic'	'Ice', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Psychic'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Bug'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Ghost'	'Ice', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Ghost'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Dark'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ice'	'Ice', 'Fairy'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Fighting'	'Fighting', 'Psychic'	'Flying', 'Steel'	0.5, 1.0	1.0, 2.0
+'Electric', 'Fighting'	'Fighting', 'Bug'	'Bug', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Fighting'	'Fighting', 'Dragon'	'Poison', 'Steel'	0.5, 1.0	1.0
+'Electric', 'Fighting'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Fighting'	'Flying', 'Steel'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Fighting'	'Steel', 'None_Type'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Poison'	'Electric', 'Dark'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Electric', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Ice', 'Poison'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Ice', 'Poison'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Ice', 'Poison'	'Bug', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Ice', 'Bug'	'Ice', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'Poison'	'Fighting', 'Rock'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Fighting', 'Ghost'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Fighting', 'Ghost'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Poison', 'None_Type'	'Bug', 'Rock'	0.5, 1.0	0.5, 1.0
+'Electric', 'Poison'	'Poison', 'None_Type'	'Bug', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ground'	'Ice', 'Bug'	'Psychic', 'Steel'	0.5, 1.0	1.0, 2.0
+'Electric', 'Ground'	'Ice', 'Bug'	'Dark', 'Steel'	0.5, 1.0	1.0, 2.0
+'Electric', 'Ground'	'Poison', 'Bug'	'Bug', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Ground'	'Bug', 'Steel'	'Bug', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Ground'	'Bug', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Flying'	'Electric', 'Bug'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Flying'	'Fighting', 'Psychic'	'Poison', 'Rock'	1.0, 2.0	0.5, 1.0
+'Electric', 'Flying'	'Fighting', 'Psychic'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Flying'	'Fighting', 'Ghost'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Flying'	'Fighting', 'Dark'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Flying'	'Fighting', 'Fairy'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Flying'	'Fighting', 'None_Type'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Flying'	'Ghost', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Flying'	'Dark', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Flying'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Electric', 'Rock'	'Electric', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Electric', 'Rock'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Electric', 'Fairy'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Grass', 'Rock'	'Poison', 'Psychic'	0.5, 1.0	1.0
+'Electric', 'Psychic'	'Grass', 'Ghost'	'Flying', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Electric', 'Psychic'	'Grass', 'Ghost'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Electric', 'Psychic'	'Ice', 'Psychic'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Ice', 'Psychic'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Ice', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Psychic'	'Flying', 'None_Type'	'Bug', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Electric', 'Psychic'	'Psychic', 'Rock'	'Psychic', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Psychic', 'Rock'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Psychic'	'Rock', 'Steel'	'Steel', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Bug'	'Grass', 'Poison'	'Fighting', 'Bug'	0.5, 1.0	0.5, 1.0
+'Electric', 'Bug'	'Grass', 'Ghost'	'Grass', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Bug'	'Fighting', 'Bug'	'Fighting', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Bug'	'Fighting', 'Bug'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Bug'	'Psychic', 'Steel'	'Bug', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'Bug'	'Psychic', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Bug'	'Bug', 'Dragon'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'Bug'	'Dragon', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'Rock'	'Electric', 'Ghost'	'Electric', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Electric', 'Rock'	'Electric', 'Ghost'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Rock'	'Electric', 'Ghost'	'Poison', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Electric', 'Rock'	'Electric', 'Dark'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Rock'	'Electric', 'Fairy'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Rock'	'Grass', 'Ghost'	'Ice', 'Poison'	0.5, 1.0	1.0, 2.0
+'Electric', 'Rock'	'Ice', 'Poison'	'Fighting', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Electric', 'Ghost'	'Electric', 'Fairy'	'Electric', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ghost'	'Electric', 'Fairy'	'Grass', 'Bug'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ghost'	'Electric', 'None_Type'	'Grass', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ghost'	'Electric', 'None_Type'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Ghost'	'Grass', 'Rock'	'Poison', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'Ghost'	'Grass', 'Rock'	'Poison', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Ghost'	'Grass', 'Ghost'	'Poison', 'Ghost'	0.5, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Grass', 'Ghost'	'Bug', 'Ghost'	0.5, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Grass', 'Ghost'	'Ghost', 'Steel'	0.5, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Grass', 'Fairy'	'Bug', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'Ghost'	'Grass', 'Fairy'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Ghost'	'Grass', 'None_Type'	'Steel', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'Ghost'	'Grass', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Ghost'	'Ice', 'Poison'	'Ice', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'Ghost'	'Ice', 'Bug'	'Ice', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'Ghost'	'Ice', 'Ghost'	'Ghost', 'Fairy'	1.0, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Ice', 'Ghost'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Flying', 'Fairy'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Electric', 'Ghost'	'Flying', 'Fairy'	'Dark', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Ghost'	'Rock', 'Ghost'	'Ghost', 'Fairy'	1.0, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Rock', 'Ghost'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Rock', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Ghost'	'Ghost', 'Dragon'	'Ghost', 'Steel'	0.5, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Electric', 'Ghost'	'Dragon', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Dragon'	'Grass', 'Fighting'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Grass', 'Psychic'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Grass', 'Psychic'	'Fighting', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Grass', 'Ghost'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Grass', 'Dark'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Fighting', 'Steel'	'Psychic', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Bug', 'Steel'	'Rock', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Bug', 'Steel'	'Dark', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Ghost', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dragon'	'Dark', 'Steel'	'Steel', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Electric', 'None_Type'	'Grass', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Electric', 'None_Type'	'Dragon', 'Steel'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Grass', 'Bug'	'Ice', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Electric', 'Dark'	'Grass', 'Dark'	'Dark', 'Steel'	0.5	0.5, 1.0
+'Electric', 'Dark'	'Grass', 'Fairy'	'Ghost', 'Steel'	0.5	1.0, 2.0
+'Electric', 'Dark'	'Grass', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Dark'	'Ice', 'Ghost'	'Bug', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Electric', 'Dark'	'Ice', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Ice', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Ice', 'Fairy'	'Poison', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Electric', 'Dark'	'Fighting', 'Poison'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Electric', 'Dark'	'Fighting', 'None_Type'	'Flying', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Electric', 'Dark'	'Poison', 'Flying'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Dark'	'Poison', 'Ghost'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Electric', 'Dark'	'Poison', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Dark'	'Flying', 'Steel'	'Dragon', 'Fairy'	1.0, 2.0	0.5
+'Electric', 'Dark'	'Flying', 'None_Type'	'Bug', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Electric', 'Dark'	'Bug', 'Dragon'	'Rock', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Electric', 'Dark'	'Rock', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Dark'	'Rock', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'Dark'	'Ghost', 'Steel'	'Dragon', 'Fairy'	1.0, 2.0	0.5
+'Electric', 'Dark'	'Dragon', 'Dark'	'Dark', 'Steel'	0.5	0.5, 1.0
+'Electric', 'Dark'	'Dragon', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Steel'	'Grass', 'Ghost'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Steel'	'Grass', 'Dark'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Electric', 'Fairy'	'Grass', 'Ghost'	'Bug', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'Ghost'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'Fairy'	'Psychic', 'Bug'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'Fairy'	'Bug', 'Ghost'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'Fairy'	'Bug', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'Fairy'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'None_Type'	'Fighting', 'Steel'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Grass', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'Fairy'	'Ice', 'Poison'	'Fighting', 'Rock'	0.5, 1.0	1.0, 2.0
+'Electric', 'Fairy'	'Ice', 'Poison'	'Rock', 'Dark'	0.5, 1.0	1.0, 2.0
+'Electric', 'Fairy'	'Ice', 'Dark'	'Poison', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Electric', 'Fairy'	'Fighting', 'Psychic'	'Poison', 'Rock'	1.0, 2.0	0.5, 1.0
+'Electric', 'Fairy'	'Fighting', 'Steel'	'Steel', 'Fairy'	1.0	0.5, 1.0
+'Electric', 'Fairy'	'Poison', 'Psychic'	'Flying', 'Ghost'	0.5, 1.0	1.0, 2.0
+'Electric', 'Fairy'	'Poison', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Electric', 'None_Type'	'Grass', 'Psychic'	'Rock', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'Bug'	'Psychic', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'Bug'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'Ghost'	'Steel', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'Ghost'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'Dark'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'None_Type'	'Fighting', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'None_Type'	'Psychic', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'None_Type'	'Ghost', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'None_Type'	'Steel', 'Fairy'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Grass', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Fighting', 'Dragon'	'Poison', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Fighting', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Poison', 'Steel'	'Psychic', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Poison', 'Steel'	'Dragon', 'Dark'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Poison', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Psychic', 'Steel'	'Bug', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Psychic', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Bug', 'Dragon'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Bug', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Rock', 'Steel'	'Ghost', 'Dragon'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Rock', 'Steel'	'Dragon', 'Dark'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Rock', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Ghost', 'Dragon'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Ghost', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Electric', 'None_Type'	'Dragon', 'Dark'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Dragon', 'None_Type'	'Dark', 'Steel'	0.5, 1.0	1.0
+'Electric', 'None_Type'	'Dragon', 'None_Type'	'Steel', 'None_Type'	0.5, 1.0	1.0
+'Grass', 'Ice'	'Ice', 'Ground'	'Poison', 'Psychic'	1.0, 2.0	0.5, 1.0
+'Grass', 'Ice'	'Ice', 'Ground'	'Poison', 'Ghost'	1.0, 2.0	0.5, 1.0
+'Grass', 'Ice'	'Ice', 'Ground'	'Poison', 'Dark'	1.0, 2.0	0.5, 1.0
+'Grass', 'Ice'	'Ice', 'Ground'	'Poison', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Grass', 'Ice'	'Ice', 'Ground'	'Poison', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Grass', 'Fighting'	'Ground', 'Steel'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Grass', 'Poison'	'Ice', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'Poison'	'Fighting', 'Bug'	'Fighting', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Grass', 'Poison'	'Fighting', 'Dark'	'Bug', 'Rock'	1.0	0.5, 1.0
+'Grass', 'Poison'	'Flying', 'Rock'	'Rock', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'Poison'	'Flying', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Poison'	'Flying', 'None_Type'	'Rock', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'Poison'	'Psychic', 'Bug'	'Rock', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'Flying'	'Fighting', 'Psychic'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Grass', 'Flying'	'Fighting', 'Ghost'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Grass', 'Flying'	'Fighting', 'Dark'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Grass', 'Flying'	'Fighting', 'None_Type'	'Rock', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Grass', 'Psychic'	'Grass', 'Fairy'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Grass', 'Psychic'	'Ice', 'Psychic'	'Psychic', 'Rock'	0.5, 1.0	0.5, 2.0
+'Grass', 'Psychic'	'Ice', 'Fairy'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Psychic'	'Ice', 'Fairy'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Psychic'	'Ice', 'None_Type'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Psychic'	'Ice', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Grass', 'Ghost'	'Grass', 'Fairy'	'Grass', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Grass', 'Ghost'	'Ice', 'Ghost'	'Rock', 'Ghost'	1.0, 2.0	2.0
+'Grass', 'Ghost'	'Ice', 'Fairy'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Ghost'	'Ice', 'Fairy'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Ghost'	'Ice', 'None_Type'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Ghost'	'Ice', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Ghost'	'Ground', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Grass', 'Ghost'	'Ground', 'Fairy'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Grass', 'Ghost'	'Ground', 'Fairy'	'Dark', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Grass', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Grass', 'Dragon'	'Fighting', 'Poison'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dragon'	'Poison', 'Psychic'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dragon'	'Poison', 'Ghost'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dragon'	'Poison', 'Dark'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dragon'	'Poison', 'None_Type'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dragon'	'Poison', 'None_Type'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dragon'	'Bug', 'Rock'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Dark'	'Ice', 'Dark'	'Rock', 'Dark'	0.5, 1.0	0.5, 2.0
+'Grass', 'Dark'	'Ice', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Dark'	'Poison', 'Dark'	'Ground', 'Dark'	0.5	0.5, 2.0
+'Grass', 'Dark'	'Poison', 'None_Type'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Dark'	'Ground', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Grass', 'Steel'	'Ice', 'Fighting'	'Fighting', 'Ground'	1.0, 2.0	1.0, 2.0
+'Grass', 'Steel'	'Fighting', 'Flying'	'Flying', 'Rock'	0.5, 1.0	1.0, 2.0
+'Grass', 'Steel'	'Fighting', 'Flying'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Psychic'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Psychic'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Ghost'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Ghost'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Fairy'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Fairy'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Fairy'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'Fairy'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'None_Type'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'None_Type'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'None_Type'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Ice', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'Fairy'	'Fighting', 'Bug'	'Ground', 'Steel'	0.5, 2.0	0.5, 1.0
+'Grass', 'Fairy'	'Flying', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'Fairy'	'Flying', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Fighting'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Fighting'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Psychic'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Psychic'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Ghost'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Ghost'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Dark'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Fairy'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Fairy'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Fairy'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'Fairy'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'None_Type'	'Psychic', 'Rock'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'None_Type'	'Rock', 'Ghost'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'None_Type'	'Rock', 'Dark'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'None_Type'	'Rock', 'Fairy'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ice', 'None_Type'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Grass', 'None_Type'	'Fighting', 'Poison'	'Ground', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Fighting', 'Poison'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'Psychic'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'Ghost'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'Dark'	'Ground', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'Dark'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'Fairy'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'None_Type'	'Ground', 'Dark'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Poison', 'None_Type'	'Ground', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Grass', 'None_Type'	'Ground', 'Steel'	'Ghost', 'Dragon'	1.0	0.5, 1.0
+'Grass', 'None_Type'	'Ground', 'Steel'	'Dragon', 'Dark'	1.0	0.5, 1.0
+'Grass', 'None_Type'	'Ground', 'Steel'	'Dragon', 'None_Type'	1.0	0.5, 1.0
+'Grass', 'None_Type'	'Bug', 'Rock'	'Rock', 'None_Type'	1.0	1.0, 2.0
+'Ice', 'Fighting'	'Fighting', 'Dragon'	'Dragon', 'Steel'	1.0, 2.0	1.0, 2.0
+'Ice', 'Poison'	'Ice', 'Dark'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ice', 'Poison'	'Ice', 'Dark'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Ice', 'Poison'	'Fighting', 'Rock'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Ice', 'Poison'	'Fighting', 'Fairy'	'Rock', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Ice', 'Poison'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ice', 'Poison'	'Poison', 'None_Type'	'Bug', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Ice', 'Poison'	'Rock', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Ice', 'Ground'	'Fighting', 'Dragon'	'Dragon', 'Steel'	1.0, 2.0	1.0, 2.0
+'Ice', 'Ground'	'Poison', 'Bug'	'Bug', 'None_Type'	1.0	0.5, 1.0
+'Ice', 'Psychic'	'Ice', 'Fairy'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ice', 'Psychic'	'Ground', 'Ghost'	'Ghost', 'Dragon'	1.0, 2.0	1.0, 2.0
+'Ice', 'Psychic'	'Flying', 'Psychic'	'Psychic', 'Bug'	0.5, 2.0	0.5, 1.0
+'Ice', 'Psychic'	'Flying', 'Ghost'	'Ghost', 'Dragon'	1.0, 2.0	1.0, 2.0
+'Ice', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ice', 'Psychic'	'Rock', 'Dragon'	'Ghost', 'Dragon'	1.0, 2.0	1.0, 2.0
+'Ice', 'Rock'	'Psychic', 'Rock'	'Ghost', 'Dragon'	1.0	1.0, 2.0
+'Ice', 'Ghost'	'Ice', 'Fairy'	'Ice', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ice', 'Ghost'	'Poison', 'Ground'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Ice', 'Ghost'	'Poison', 'Flying'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Ice', 'Ghost'	'Ground', 'Steel'	'Ground', 'None_Type'	1.0	1.0, 2.0
+'Ice', 'Ghost'	'Ground', 'None_Type'	'Dragon', 'Steel'	1.0, 2.0	1.0
+'Ice', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Ice', 'Dragon'	'Ground', 'Bug'	'Rock', 'None_Type'	1.0, 2.0	1.0
+'Ice', 'Dark'	'Poison', 'Ghost'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Ice', 'Dark'	'Poison', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ice', 'Dark'	'Ground', 'Steel'	'Ground', 'None_Type'	1.0	1.0, 2.0
+'Ice', 'Dark'	'Ground', 'None_Type'	'Dragon', 'Steel'	1.0, 2.0	1.0
+'Ice', 'Dark'	'Flying', 'Dark'	'Bug', 'Dark'	0.5, 2.0	0.5, 1.0
+'Ice', 'Fairy'	'Poison', 'Psychic'	'Ground', 'Bug'	0.5, 1.0	1.0, 2.0
+'Ice', 'Fairy'	'Poison', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Ice', 'None_Type'	'Poison', 'Rock'	'Psychic', 'Dragon'	1.0	1.0, 2.0
+'Ice', 'None_Type'	'Ground', 'Bug'	'Rock', 'None_Type'	1.0, 2.0	1.0
+'Ice', 'None_Type'	'Ground', 'Ghost'	'Ground', 'Steel'	1.0, 2.0	1.0
+'Ice', 'None_Type'	'Ground', 'Ghost'	'Dragon', 'Steel'	1.0, 2.0	1.0
+'Ice', 'None_Type'	'Ground', 'Dark'	'Ground', 'Steel'	1.0, 2.0	1.0
+'Ice', 'None_Type'	'Ground', 'Dark'	'Dragon', 'Steel'	1.0, 2.0	1.0
+'Ice', 'None_Type'	'Ground', 'Steel'	'Ground', 'None_Type'	1.0	1.0, 2.0
+'Ice', 'None_Type'	'Ground', 'None_Type'	'Dragon', 'Steel'	1.0, 2.0	1.0
+'Ice', 'None_Type'	'Psychic', 'Rock'	'Ghost', 'Dragon'	1.0	1.0, 2.0
+'Fighting', 'Flying'	'Fighting', 'Psychic'	'Fighting', 'Fairy'	0.5, 2.0	0.5, 2.0
+'Fighting', 'Flying'	'Fighting', 'Rock'	'Flying', 'Rock'	1.0, 2.0	0.5, 1.0
+'Fighting', 'Psychic'	'Poison', 'Rock'	'Flying', 'Dragon'	1.0, 2.0	0.5, 1.0
+'Fighting', 'Psychic'	'Poison', 'Rock'	'Flying', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fighting', 'Psychic'	'Poison', 'Rock'	'Dragon', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Fighting', 'Psychic'	'Poison', 'Rock'	'Fairy', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Fighting', 'Psychic'	'Flying', 'Dragon'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Psychic'	'Flying', 'None_Type'	'Rock', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Psychic'	'Flying', 'None_Type'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Bug'	'Fighting', 'Dragon'	'Bug', 'Steel'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Bug'	'Fighting', 'Dragon'	'Bug', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Bug'	'Fighting', 'None_Type'	'Bug', 'Dragon'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Bug'	'Fighting', 'None_Type'	'Bug', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Bug'	'Ground', 'Rock'	'Rock', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Fighting', 'Rock'	'Poison', 'Dragon'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Ghost'	'Poison', 'Dragon'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Ghost'	'Poison', 'Dragon'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Ghost'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Fighting', 'Ghost'	'Flying', 'Dragon'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Ghost'	'Flying', 'Dark'	'Rock', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Ghost'	'Flying', 'Dark'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Ghost'	'Flying', 'None_Type'	'Rock', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Ghost'	'Flying', 'None_Type'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Dragon'	'Ground', 'Dragon'	'Dragon', 'Steel'	1.0, 2.0	1.0, 2.0
+'Fighting', 'Dragon'	'Ground', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Fighting', 'Dragon'	'Flying', 'Dragon'	'Rock', 'Dragon'	0.5, 2.0	2.0
+'Fighting', 'Dragon'	'Flying', 'None_Type'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Dark'	'Flying', 'Dragon'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Dark'	'Flying', 'None_Type'	'Rock', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Dark'	'Flying', 'None_Type'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'Steel'	'Flying', 'None_Type'	'Steel', 'Fairy'	0.5, 1.0	1.0
+'Fighting', 'Steel'	'Psychic', 'None_Type'	'Steel', 'Fairy'	0.5, 1.0	1.0
+'Fighting', 'Fairy'	'Flying', 'None_Type'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'None_Type'	'Flying', 'Dragon'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Fighting', 'None_Type'	'Flying', 'None_Type'	'Rock', 'Dragon'	0.5, 1.0	1.0, 2.0
+'Fighting', 'None_Type'	'Flying', 'None_Type'	'Rock', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Poison', 'Ground'	'Ground', 'Dark'	'Dragon', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Poison', 'Ground'	'Ground', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Poison', 'Flying'	'Poison', 'Dragon'	'Poison', 'Dark'	0.5, 1.0	0.5, 1.0
+'Poison', 'Flying'	'Poison', 'Dragon'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Poison', 'Flying'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Poison', 'Bug'	'Ground', 'Bug'	'Ground', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Poison', 'Bug'	'Ground', 'Dragon'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Poison', 'Bug'	'Ground', 'None_Type'	'Bug', 'Dragon'	0.5, 1.0	1.0
+'Poison', 'Bug'	'Ground', 'None_Type'	'Bug', 'None_Type'	0.5, 1.0	1.0
+'Poison', 'Ghost'	'Flying', 'Dark'	'Flying', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Poison', 'Ghost'	'Flying', 'Dark'	'Dragon', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Poison', 'Ghost'	'Flying', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Poison', 'Ghost'	'Flying', 'Fairy'	'Dark', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Poison', 'Ghost'	'Dragon', 'Fairy'	'Dark', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Poison', 'Ghost'	'Dark', 'None_Type'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Poison', 'Dragon'	'Poison', 'Dark'	'Poison', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Poison', 'Dragon'	'Poison', 'None_Type'	'Bug', 'Rock'	0.5, 1.0	0.5, 1.0
+'Poison', 'Dragon'	'Poison', 'None_Type'	'Bug', 'Ghost'	0.5, 1.0	0.5, 1.0
+'Poison', 'Dragon'	'Flying', 'Dragon'	'Dragon', 'Dark'	1.0, 2.0	1.0, 2.0
+'Poison', 'Dragon'	'Flying', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Poison', 'Dragon'	'Dragon', 'Dark'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Poison', 'Dark'	'Flying', 'Dark'	'Dragon', 'Dark'	0.5, 1.0	0.5, 1.0
+'Poison', 'Dark'	'Flying', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Poison', 'Dark'	'Dragon', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Poison', 'None_Type'	'Ground', 'Dark'	'Dragon', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Poison', 'None_Type'	'Ground', 'Dark'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Ground', 'Psychic'	'Psychic', 'Dragon'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ground', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ground', 'Psychic'	'Bug', 'Fairy'	'Rock', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Ground', 'Psychic'	'Bug', 'None_Type'	'Rock', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Ground', 'Ghost'	'Rock', 'Fairy'	'Dark', 'Fairy'	1.0, 2.0	0.5, 1.0
+'Ground', 'Ghost'	'Rock', 'Fairy'	'Dark', 'None_Type'	1.0, 2.0	0.5, 1.0
+'Ground', 'Ghost'	'Ghost', 'Dragon'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Ground', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Ground', 'Dragon'	'Psychic', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Ground', 'Dragon'	'Ghost', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Ground', 'Dragon'	'Dragon', 'Dark'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Ground', 'Dark'	'Dragon', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ground', 'Fairy'	'Bug', 'Ghost'	'Bug', 'Fairy'	0.5, 1.0	0.5, 1.0
+'Flying', 'Psychic'	'Psychic', 'Dragon'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Flying', 'Psychic'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Flying', 'Ghost'	'Ghost', 'Dragon'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Flying', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Flying', 'Dragon'	'Psychic', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Flying', 'Dragon'	'Ghost', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Flying', 'Dragon'	'Dragon', 'Dark'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Flying', 'Dark'	'Dragon', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Flying', 'Steel'	'Psychic', 'Steel'	'Dragon', 'Steel'	0.5	0.5
+'Flying', 'Fairy'	'Rock', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Flying', 'Fairy'	'Rock', 'Ghost'	'Dark', 'None_Type'	0.5, 1.0	1.0, 2.0
+'Psychic', 'Rock'	'Psychic', 'Dragon'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Psychic', 'Rock'	'Psychic', 'Fairy'	'Psychic', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Psychic', 'Dragon'	'Rock', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Bug', 'Fairy'	'Rock', 'Ghost'	'Dark', 'Fairy'	0.5, 1.0	1.0, 2.0
+'Rock', 'Ghost'	'Ghost', 'Dragon'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Rock', 'Ghost'	'Ghost', 'Fairy'	'Ghost', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Rock', 'Dragon'	'Ghost', 'Dragon'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Rock', 'Dragon'	'Dragon', 'Dark'	'Dragon', 'None_Type'	1.0, 2.0	1.0, 2.0
+'Rock', 'Dark'	'Dragon', 'Dark'	'Dark', 'None_Type'	0.5, 1.0	0.5, 1.0
+'Ghost', 'Steel'	'Dark', 'None_Type'	'Fairy', 'None_Type'	0.5, 1.0	1.0, 2.0
